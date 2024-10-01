@@ -1,6 +1,3 @@
-'''Olá, primeiramente muito obrigado pela oportunidade de chegar até aqui, fiz esse desafio em lingaugem Python
-pois gosto da linguagem, e na verdade queria 'reviver' ela, pois fazia meses que eu não mexia com python, estava mexendo com Java, SQL e daí
-resolvi usar ela para esse desafio, além eu eu gostar muito da área de análise de dados'''
 
 import random
 lista_sinais = ['pedra', 'papel', 'tesoura']
