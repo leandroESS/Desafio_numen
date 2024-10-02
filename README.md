@@ -1,5 +1,5 @@
 # Desafio_numen
-Desafio da empresa Numen para o programa Talents desenvolvido em Python
+Desafio da empresa Numen para o programa de Formação de Talentos Tech 2024, o programa foi desenvolvido em linguagem Python
 
 # Jogo de Jokenpô (Pedra, Papel e Tesoura)
 
